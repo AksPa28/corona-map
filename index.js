@@ -13,7 +13,7 @@ function updateMap() {
                 }
 
                 else{
-                    color = `rgb(${cases-255}, 0, 0)`
+                    color = `rgb(${cases}, 0, 0)`
                 }
 
                 // Mark on the map
